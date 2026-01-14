@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Variable Gravity Physics Sandbox
 
-# Run and deploy your AI Studio app
+A **physics sandbox** for experimenting with **variable gravity** and **collision dynamics**. Simulate objects under different gravitational strengths, observe collisions, and explore realistic physics behaviors in an interactive environment.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1BBsk75kwsH13UScNMLVGvvsa8mihFjMo
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Adjustable Gravity:** Set custom gravity values to see how objects respond.  
+- **Collision Dynamics:** Realistic object collisions with physics-based responses.  
+- **Interactive Simulation:** Drag, drop, and manipulate objects in real time.  
+- **Visualization:** Observe trajectories, bounces, and interactions in 2D/3D space.
